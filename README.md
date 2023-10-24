@@ -1,4 +1,4 @@
- <div align="center"><h2>My name is Vadim, i am frontend developer from Krasnodar,Russia</h2></div>  
+ <div align="center"><h2 color="white">My name is Vadim, i am frontend developer from Krasnodar,Russia</h2></div>  
   
 
 <br/>
