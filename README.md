@@ -1,7 +1,7 @@
  <div align="center"><h2>My name is Vadim, i am frontend developer from Krasnodar,Russia</h2></div>  
   
 
-
+<br/>
 
 
 <h2>My Tech Stack</h2>
