@@ -1,4 +1,4 @@
- <div align="center"><h2>My name is Vadim, i am frontend developer from Krasnodar,Russia</h2></div>  
+ <div align="center"><h2>My name is Vadim, i am frontend developer from Krasnodar, Russia</h2></div>  
   
 
 <br/>
@@ -31,7 +31,7 @@
   <a href="https://vk.com/cvrsdxdx" target="_blank">
   <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white"/>
   </a>
-  <a href="https://t.me/fhdhddjb" target="_blank">
+  <a href="https://t.me/hateql" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>  
