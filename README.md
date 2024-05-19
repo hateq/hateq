@@ -17,12 +17,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
  
 </div>
-<br/>
-<div id="stat" align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hateq&theme=dark"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hateq&theme=dark"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hateq&theme=dark"/>
- </div>
 <br/>  
 
 
@@ -39,4 +33,10 @@
 
 <br/>  
 
-
+## My stat
+<div id="stat" align="center">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hateq&theme=dark"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hateq&theme=dark"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hateq&theme=dark"/>
+ </div>
+ <br/>
